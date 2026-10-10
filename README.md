@@ -1,15 +1,16 @@
 ## About me
 
-I'm Eddy. I do equity research, and I build the tools I use to do it.
+I'm Eddy. I do equity research, and I build the tools I use to do it. Everything is at [eddyrlora.com](https://eddyrlora.com).
 
 I write initiation reports and the models behind them, mostly on industrials and tech hardware. I also run Reminous, a small agency where I build lead systems and websites for small businesses.
 
-Almost everything I work on lives in private repos: my research system, a trading engine I wrote to test my own rules, client sites, and a finance training game I'm building. The squares below are that work, on the days I did it.
+Almost everything I work on lives in private repos: my research system, a trading engine I wrote to test my own rules, client sites, and a finance training game I'm building. The squares below are that work, on the days I did it. One slice is public: [research-desk](https://github.com/EddyRLora/research-desk) pulls a company's reported numbers from SEC EDGAR with the filing behind every value, and checks every number a note states against the model.
 
 Outside of that: chess, basketball, golf, lifting, and building PCs, usually with classic rock or indie on.
 
 ## Socials
 
+[![eddyrlora.com](https://img.shields.io/badge/eddyrlora.com-1A1A1A?style=for-the-badge&logoColor=white)](https://eddyrlora.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddyrlora)
 
 ## Tech stack
