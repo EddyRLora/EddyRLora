@@ -6,7 +6,7 @@ I write initiation reports and the models behind them, mostly on industrials and
 
 Almost everything I work on lives in private repos: my research system, a trading engine I wrote to test my own rules, client sites, and a finance training game I'm building. The squares below are that work, on the days I did it. One slice is public: [research-desk](https://github.com/EddyRLora/research-desk) pulls a company's reported numbers from SEC EDGAR with the filing behind every value, and checks every number a note states against the model.
 
-Outside of that: chess, basketball, golf, lifting, and building PCs, usually with classic rock or indie on.
+Outside of that: chess, basketball, golf, lifting, and building PCs.
 
 ## Socials
 
