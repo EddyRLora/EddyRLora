@@ -1,6 +1,6 @@
 ## About me
 
-I'm Eddy. I do equity research, and I build the tools I use to do it. I love building and working on complex projects, and continue to pursue challenges that allow me to express myself technically. Everything is at [eddyrlora.com](https://eddyrlora.com).
+I do equity research, and I build the tools I use to do it. I love building and working on complex projects, and continue to pursue challenges that allow me to express myself technically. Everything is at [eddyrlora.com](https://eddyrlora.com).
 
 I write initiation reports and the models behind them, mostly on industrials and tech hardware. I also run Reminous, a small agency where I build creative systems, acquisition systems, and run ads.
 
