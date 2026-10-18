@@ -4,7 +4,7 @@ I'm Eddy. I do equity research, and I build the tools I use to do it. I love bui
 
 I write initiation reports and the models behind them, mostly on industrials and tech hardware. I also run Reminous, a small agency where I build creative systems, acquisition systems, and run ads.
 
-Almost everything I work on lives in private repos: my research system, a trading engine I wrote to test my own rules, client sites, and a finance training game I'm building.
+Almost everything I work on lives in private repos: my research system, a trading engine I wrote to test my own rules, client projects and systems, and a finance training game I'm building.
 
 Outside of that: chess, basketball, golf, lifting, and building PCs.
 
